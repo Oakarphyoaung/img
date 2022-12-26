@@ -1,0 +1,15 @@
+body{
+  padding: 0%;
+}
+
+.parent{
+  display: flex;
+  flex-direction: row;
+  
+
+}
+.child2{
+  display: flex;
+  flex-direction: row;
+  
+}
